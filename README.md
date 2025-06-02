@@ -1,8 +1,3 @@
-<!-- Cover Image -->
-<p align="center">
-  <img src="https://your-image-link-here.com/banner.png" alt="Blood Group Detection Project Banner" width="80%">
-</p>
-
 # 🧬 Blood Group Detection Using Fingerprints
 
 A deep learning-based system that classifies human blood groups (A, B, AB, O) using fingerprint biometrics. This project explores a **non-invasive**, **automated**, and **cost-effective** alternative to traditional blood testing by leveraging computer vision and deep learning.
